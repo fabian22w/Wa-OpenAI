@@ -1,6 +1,16 @@
 const sessionName = "yusril";
-const donet = "https://saweria.co/sansekai";
-const owner = ["6287878817169"]; // Put your number here ex: ["62xxxxxxxxx"]
+const donet = " ───「  *DONASI*  」────
+
+💵PEMBAYARAN VIA ALL PAYMENT :
+💳DANA : 082217006272
+💳LINK AJA : 082217006272
+💳OVO : 082217006272 
+💳GOPAY VIA QRIS
+💳SHOPEEPAY VIA QRIS
+💳BRI MOBILE QRIS
+💳PULSA NOMER TRANSAKSI : 081391215759
+berapapun donasi dari kalian itu sangat berarti bagi kami ";
+const owner = ["6287786964488"]; // Put your number here ex: ["62xxxxxxxxx"]
 const {
   default: sansekaiConnect,
   useMultiFileAuthState,
